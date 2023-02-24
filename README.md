@@ -5,7 +5,7 @@
 <p>
   - 🔭  ... <a href="https://portfolio-richard.vercel.app/" target="_blank" rel="noreferrer">Meu Site</a>
 </p>
-<p align="center">
+<p align="left">
   - 🔭  ... <a href="https://github.com/RicCost4/portfolio2.0#readme" target="_blank">Portfolio 2.0</a><br>
   - 🌱  ... <a href="https://github.com/RicCost4/Repositorio-Python#readme" target="_blank">Repositorio Python</a><br>
   - 👯  ... <a href="https://github.com/RicCost4/Repositorio-HTML#readme" target="_blank">Repositorio HTML</a><br>
